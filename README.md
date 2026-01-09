@@ -1,6 +1,6 @@
 ### Hi there, I'm Alfian Valentino! 👋
 
-I am a **Nanotechnology Engineering** student, passionate about bridging the gap between pure science and computational technology. My goal is to leverage AI and secure data systems to revolutionize drug discovery and medical diagnostics.
+Passionate about bridging the gap between pure science and computational technology. My goal is to leverage AI and secure data systems to revolutionize drug discovery and medical diagnostics.
 
 ---
 
